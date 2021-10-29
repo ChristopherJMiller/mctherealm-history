@@ -1,6 +1,6 @@
 # mctherealm-history
 
-This repository hosts the documentary website of the minecraft servers I hosted throughout middle school and parts of early high school (2012-~2014).
+This repository hosts the documentary website of the minecraft servers I hosted throughout middle school and parts of early high school (2010-~2014).
 
 Most of this website was written around late 2014.
 
